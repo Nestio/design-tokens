@@ -339,6 +339,24 @@
       }
     }
   },
+  "cortland free": {
+    "font": {
+      "header": {
+        "value": "Oswald",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Source Sans 3",
+        "type": "fontFamilies"
+      }
+    },
+    "fontWeight": {
+      "bold": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    }
+  },
   "essex": {
     "colorBrand": {
       "primary": {
